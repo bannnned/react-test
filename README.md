@@ -1,3 +1,6 @@
+13/27
+https://www.youtube.com/watch?v=jsoA5KC9VIo&list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&index=13
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
